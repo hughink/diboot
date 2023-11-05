@@ -20,7 +20,7 @@
     "jsencrypt": "^3.3.2",
     "lodash": "^4.17.21",
     "moment": "^2.29.4",
-    "pinia": "~2.0.34",
+    "pinia": "~2.1.7",
     "pinia-plugin-persist": "^1.0.0",
     "qs": "^6.11.1",
     "vant": "^4.6.7",
